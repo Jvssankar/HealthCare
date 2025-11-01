@@ -21,7 +21,7 @@ It provides an efficient platform to manage healthcare services, doctor-patient 
 | Layer | Technology Used |
 |-------|------------------|
 | **Frontend** | React.js, HTML, CSS, JavaScript |
-| **Backend** | Node.js, Express.js |
+| **Backend** | Node.js |
 | **Database** | MongoDB |
 | **Version Control** | Git & GitHub |
 
